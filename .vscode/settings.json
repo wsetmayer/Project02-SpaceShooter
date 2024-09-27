@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Exercise-02d-Scenes-And-Menus.sln"
+    "dotnet.defaultSolution": "Project02-SpaceShooter.sln"
 }
